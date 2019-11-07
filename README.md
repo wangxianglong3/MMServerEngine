@@ -18,18 +18,18 @@ MMServerEngine设计的最主要的目标有两点：
 
 ### 3、框架  
 * 集群框架  
-![image](https://github.com/xuerong/MMServerEngine/blob/master/resource/sys.png)  
+![image](https://github.com/wangxianglong3/MMServerEngine/tree/master/resource/sys.png)  
 * Server框架  
-![image](https://github.com/xuerong/MMServerEngine/blob/master/resource/server.png)  
+![image](https://github.com/wangxianglong3/MMServerEngine/tree/master/resource/server.png)  
 * Service框架  
-![image](https://github.com/xuerong/MMServerEngine/blob/master/resource/service.png)  
+![image](https://github.com/wangxianglong3/MMServerEngine/tree/master/resource/service.png)  
 
-## [二、系统详述](https://github.com/xuerong/MMServerEngine/blob/master/resource/sysDetail.md) 
-## [三、集群](https://github.com/xuerong/MMServerEngine/blob/master/resource/cluster.md) 
-## [四、系统与周边](https://github.com/xuerong/MMServerEngine/blob/master/resource/around.md) 
-## [五、重要原理和文件详述](https://github.com/xuerong/MMServerEngine/blob/master/resource/mainTheory.md) 
-## [六、基本使用流程](https://github.com/xuerong/MMServerEngine/blob/master/resource/baseUse.md) 
-## [七、一个小游戏案例Live](https://github.com/xuerong/MMServerEngine/blob/master/resource/live.md) 
+## [二、系统详述](https://github.com/wangxianglong3/MMServerEngine/tree/master/resource/sysDetail.md) 
+## [三、集群](https://github.com/wangxianglong3/MMServerEngine/tree/master/resource/cluster.md) 
+## [四、系统与周边](https://github.com/wangxianglong3/MMServerEngine/tree/master/resource/around.md) 
+## [五、重要原理和文件详述](https://github.com/wangxianglong3/MMServerEngine/tree/master/resource/mainTheory.md) 
+## [六、基本使用流程](https://github.com/wangxianglong3/MMServerEngine/tree/master/resource/baseUse.md) 
+## [七、一个小游戏案例Live](https://github.com/wangxianglong3/MMServerEngine/tree/master/resource/live.md) 
 
 ## 七、进度 
 MMServerEngine还有许多地方需要完善和优化，主要包括：
